@@ -17,7 +17,7 @@ class Home extends CI_Controller {
 	 * map to /indexClass.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
-    public function index()
+    public function index()//22222222222222222222222
     {
         $this -> load -> view('index/index');
     }
